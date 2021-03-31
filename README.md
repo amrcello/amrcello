@@ -5,9 +5,9 @@ I like games, animes and my dog.
 ## Technologies
 ### Programming Languages
 
-# C
-# C++
+## C
+## C++
 # Others
 
-# Assembly
-# Javascript
+## Assembly
+## Javascript
