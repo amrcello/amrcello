@@ -1,13 +1,13 @@
-### How You Doin ;)
+## How You Doin ;)
 My name is Marcello, I am a Computer Science student.
 I like games, animes and my dog.
 
-### Technologies
-# Programming Languages
+## Technologies
+### Programming Languages
 
-C
-C++
+# C
+# C++
 # Others
 
-Assembly
-Javascript
+# Assembly
+# Javascript
