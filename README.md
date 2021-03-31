@@ -1,5 +1,6 @@
 ### How You Doin ;)
-
+My name is Marcell,o I am a Computer Science student.
+I like games, animes and my dog.
 <!--
 **careMMte/careMMte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
