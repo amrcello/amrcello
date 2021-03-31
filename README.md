@@ -9,5 +9,5 @@ I like games, animes and my dog.
 ## C++
 # Others
 
-## Assembly
-## Javascript
+### Assembly
+### Javascript
