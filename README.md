@@ -8,7 +8,7 @@ I like games, animes and my dog.
 
 * C
 * C++
+* Java
 ### Others
 
-* Assembly
-* Javascript
+* Tester Q.A
