@@ -6,9 +6,15 @@ I like games, animes and my dog.
 ## Technologies
 ### Programming Languages
 
-* C
-* C++
-* Java
+* HTML;
+* Java;
+* Assembly;
+* CSS;
+* C;
+* PHP
+* SQL;
+ 
 ### Others
 
 * Tester Q.A
+* Delphi 10;
